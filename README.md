@@ -41,5 +41,7 @@ we could do. Think of the learning we would undertake.
 Seriously. If you can/want, please contribute.
 
 ##[Mook.exe](../master/mook.exe)
-![Mookie Gif!](http://i.imgur.com/Rl5LRMn.gifv)
-Now you too can mook people over. Here is the code for the dreaded mooker!!
+![Mookie Gif!](http://i.imgur.com/Rl5LRMn.gif)
+
+Now you too can mook people over. Here is the dreaded mooker!!
+Click the header and then view raw to download it!
