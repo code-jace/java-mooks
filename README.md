@@ -39,3 +39,7 @@ If you are one of my classmates, speak to me and make a github account. Another 
 we could do. Think of the learning we would undertake. 
 
 Seriously. If you can/want, please contribute.
+
+##Mook.exe
+![mookie gif!](http://i.imgur.com/Rl5LRMn.gifv)
+Now you too can mook people over. Here is the code for the dreaded mooker!!
