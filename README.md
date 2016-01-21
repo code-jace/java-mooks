@@ -25,6 +25,13 @@ Now that I've told you **not** to *copy my work*, feel free to browse and learn.
 
 
 ##Assignments
+1. Assignment 1 - Java Fundamentals & Review
+  * [1.1 - Starter Java program](../blob/master/tempConverter/src/tempConverter)
+  * [1.2 - 2D Array]
+  * [2 - Constructors-Accessor-Mutator Methods]
+2. Assignment 2 - OOP and Graphics
+  * [3.1 -Student Class]
+
 
 
 ##Contribution
