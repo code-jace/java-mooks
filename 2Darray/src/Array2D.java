@@ -1,38 +1,45 @@
 /*
  * Name: 		Oisín Hennessy
  * StudentID:	20063948
- * Date:		13/1/2016
+ * Date:		21/1/2016
  */
 import java.util.*;
 public class Array2D {
 	
 	public static void main(String[] args)
 	{
-		Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in); //Uses sc instead of easy Scanner. More efficient.
 		
-		//Take in values for array size
-		System.out.print("Enter required number of columns: ");
-		int colNo =  sc.nextInt;
+		/*
+		//Take in values for array size (This is not needed for assignment)
 		System.out.print("Enter required number of rows: ");
-		int rowNo =  sc.nextInt;
+		int rowNo =  EasyScanner.nextInt();
+		System.out.print("Enter required number of columns: ");
+		int colNo =  EasyScanner.nextInt();		
+		*/
+		
+		//Declare and Initialize dimensions
+		int colNo = 4;
+		int rowNo = 3;
 		
 		//Create 2D array
-		int[][] array1 = new int[colNo][rowNo];
+		int[][] array1 = new int[rowNo][colNo];
 		
 		//User enters values to be inserted in array.
 		System.out.println("(one entry per line): ");
-		for (int c1 = 0; c1 < array1.length; c1++){
-			for (int c2 = 0; c2 < array1[0].length; c2++){
-				System.out.print("Enter value for (" + c1 + ", " + c2 +"): ");
-				array1[c1][c2] = sc.nextInt;
+		for (int i = 0; i < array1.length; i++){
+			for (int j = 0; j < array1[0].length; j++){
+				System.out.print("Enter value for (" + i + ", " + j +"): "); 
+				array1[i][j] = sc.nextInt();
 			}
 		}
 		
 		//Print entered array
+		System.out.println();
 		System.out.println("Print entered array!! ");
-		for (int c1 = 0; c1 < array1.length; c1++) {
-			for (int c2 = 0; c2 < array1[0].length; c2++){
-				System.out.print (array1[c1][c2] + " ");
+		for (int i = 0; i < array1.length; i++) {
+			for (int j = 0; j < array1[0].length; j++){
+				System.out.print (array1[i][j] + " ");
 			}
 			System.out.println();
 		}
