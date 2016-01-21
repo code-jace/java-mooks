@@ -1,4 +1,5 @@
 #Java-Mooks
+![BE LOYAL, KEEP JAVA-MOOKS ON THE DL :)](http://i.imgur.com/P03bQN4.gif)
 ##*"Alright, listen up ya mooks!"*
 
 This is a personal repository for my programming for college. Nothing fancy yet, just small assignments.
